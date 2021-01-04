@@ -1,4 +1,5 @@
 ﻿using System;
+using PalindromeDomain;
 
 namespace PalindromeClient
 {
@@ -7,6 +8,7 @@ namespace PalindromeClient
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
         }
     }
 }

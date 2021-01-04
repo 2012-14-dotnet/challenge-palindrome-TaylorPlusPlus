@@ -7,6 +7,7 @@ namespace PalindromeClient
     {
         static void Main(string[] args)
         {
+            
             bool UserHasNotExited = true;
             string UserInput = "";
             PalindromeChecker Logic = new PalindromeChecker();
